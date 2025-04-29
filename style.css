@@ -16,7 +16,7 @@ body {
 }
 
 .main {
-    background-image: linear-gradient(rgba(248, 240, 124, 1), rgba(255, 255, 255, 1)), url('logo.png');
+    background-image: linear-gradient(rgba(255, 225, 0, 0.4), rgba(255, 255, 255, 0.6)), url('assets/logo\ glowithsya\ resmi.jpg');
     background-size: cover;
     background-position: center;
     padding-bottom: 2rem;
