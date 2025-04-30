@@ -17,7 +17,7 @@ body {
 
 
 .main {
-    background-image: linear-gradient(rgba(248, 240, 124, 0.9), rgba(255, 255, 255, 0.8)), url('logo.jng');
+    background-image: linear-gradient(rgba(248, 240, 124, 0.9), rgba(255, 255, 255, 0.8)), url('logo.jpg');
     background-size: cover;
     background-position: center;
     padding-bottom: 2rem;
